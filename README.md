@@ -28,7 +28,7 @@ pip install requests
 git clone https://github.com/paramjeet2003/Website-Crawler.git
 cd Website-Crawler
 chmod +x test.sh
-./test.sh example.com
+./web_crawler.sh example.com
 ```
 
 ## Output Files
